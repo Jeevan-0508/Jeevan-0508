@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Risk Manager** and **AWS Certified Solutions Architect** who builds automation solutions that eliminate risk, protect data, and streamline operations at scale.
+I'm a **Risk Manager** and **AWS Certified Solutions Architect** who builds automation solutions that eliminate risk, protect data, and streamline operations at scale.
 
 I specialize in creating **offline-first, privacy-focused tools** that handle sensitive data securely — with zero cloud dependency and zero data exposure. My work sits at the intersection of **risk management, process automation, and cloud architecture**.
 
