@@ -1,4 +1,3 @@
-
 # Hi, I'm Jeevan! 👋
 
 ### Risk Manager | AWS Solutions Architect | Automation Engineer | Lean Six Sigma Expert
@@ -67,4 +66,39 @@ As a Risk Manager handling sensitive data daily, I needed tools that **never sen
 ---
 
 ## 📈 My Approach
+Identify Risk → Analyze Data → Automate Solution → Measure Impact → Eliminate Waste
 
+
+I follow the **DMAIC methodology** (Define, Measure, Analyze, Improve, Control) to continuously improve processes and deliver measurable results:
+
+- 🎯 **80% improvement** in data integrity through automation
+- ⏱️ **83% reduction** in resolution time (18 days → 3 days)
+- 🔄 **12+ risk mitigation projects** delivered successfully
+
+---
+
+## 📊 GitHub Stats
+
+![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeevan-0508&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-0508&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced AWS architecture patterns
+- AI/ML for risk prediction and anomaly detection
+- Serverless automation with AWS Lambda
+- Infrastructure as Code (IaC)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [GitHub](https://github.com/Jeevan-0508)
+- 📧 Open to collaboration on automation, risk management, and cloud solutions!
+
+---
+
+⭐ *If you find my projects useful, consider giving them a star!*
