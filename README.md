@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/jk-brand-banner.png" alt="Jeevan Kumar — Risk. Governance. AI." width="320"></p>
+
 # Hi, I'm Jeevan! 👋
 
 ### Risk Manager | AWS Solutions Architect | Automation Engineer | Lean Six Sigma Expert
