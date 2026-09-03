@@ -69,28 +69,31 @@ Lately that's pulled me toward **AI governance and regulatory compliance**: I bu
 
 ## 📈 My Approach
 
-Identify Risk → Analyze Data → Automate Solution → Measure Impact → Eliminate Waste
+I apply the **DMAIC methodology** (Define, Measure, Analyze, Improve, Control) to risk and compliance problems: identify the risk, analyze the underlying data, build the automation that removes the manual step, then measure whether it actually moved the needle.
 
-I follow the **DMAIC methodology** (Define, Measure, Analyze, Improve, Control) to continuously improve processes and deliver measurable results:
+| Metric | Result |
+|---|---|
+| Data integrity improvement through automation | **80%** |
+| Resolution time reduction | **83%** (18 days → 3 days) |
+| Risk mitigation projects delivered | **12+** |
+| Regulatory frameworks operationalized into tooling | EU AI Act · GDPR · ISO/IEC 42001 |
 
-- 🎯 **80% improvement** in data integrity through automation
-- ⏱️ **83% reduction** in resolution time (18 days → 3 days)
-- 🔄 **12+ risk mitigation projects** delivered successfully
 
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJeevan-0508&query=%24.public_repos&label=Public%20Repos&color=4f46e5&style=for-the-badge)](https://github.com/Jeevan-0508?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Jeevan-0508?style=for-the-badge&color=4f46e5&label=Followers)](https://github.com/Jeevan-0508?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jeevan-0508&style=for-the-badge&color=4f46e5&label=Profile+Views)](https://github.com/Jeevan-0508)
 
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeevan-0508&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-0508&layout=compact&theme=tokyonight&hide_border=true)
+**Primary languages:** JavaScript · Python · HTML/CSS
 
 
 ## 🌱 Currently Exploring
 
-- AI governance frameworks — EU AI Act, ISO/IEC 42001, GDPR intersection
-- AI/ML for risk prediction and fraud anomaly detection
-- Moving into AI Governance / AI Risk roles in the EU market
-- Serverless automation with AWS Lambda
+- **AI governance frameworks** — deepening the EU AI Act / ISO 42001 / GDPR intersection beyond what the scanners already encode
+- **AI/ML for fraud and risk detection** — applying anomaly-detection models to carrier fraud patterns at Amazon
+- **A transition into AI Governance / AI Risk roles in the EU market**, building on this portfolio and an AWS Solutions Architect background
+- **Serverless automation** — AWS Lambda-based pipelines for the next generation of these tools
 
 
 ## 📫 Connect With Me
