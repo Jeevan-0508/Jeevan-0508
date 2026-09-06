@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,45:0ea5e9,100:38bdf8&height=210&section=header&text=Jeevan&fontSize=68&fontColor=e2e8f0&fontAlignY=33&desc=Risk%20Operations%20%E2%80%A2%20AI%20Governance%20%E2%80%A2%20Automation&descSize=17&descAlignY=53&animation=fadeIn" width="100%" alt="" />
 
 <a href="https://jeevan-0508.github.io">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3400&pause=800&color=38BDF8&center=true&vCenter=true&width=820&height=48&lines=Risk+Manager+%40+Amazon+Transportation;I+hunt+carrier+fraud+across+EU+%26+NA+lanes;Then+I+open-source+the+methodology;EU+AI+Act+%C2%B7+GDPR+%C2%B7+ISO+42001+%C2%B7+NIST+AI+RMF" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3400&pause=800&color=38BDF8&center=true&vCenter=true&width=820&height=48&lines=Risk+Manager+%40+Amazon+Transportation;I+hunt+Supply+chain+fraud+across+EU+%26+NA+regions;Then+I+open-source+the+methodology;EU+AI+Act+%C2%B7+GDPR+%C2%B7+ISO+42001+%C2%B7+NIST+AI+RMF" alt="" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### ⚡ I do two things
+### ⚡ Here's what I do
 
 </div>
 
