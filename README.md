@@ -296,6 +296,14 @@ Drop in a CSV / Excel / JSON file, get an instant GDPR exposure report: which co
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeevan-0508/Jeevan-0508/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeevan-0508/Jeevan-0508/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/Jeevan-0508/Jeevan-0508/output/snake-dark.svg" width="100%" alt="My contribution graph, being eaten" />
+</picture>
+
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevan-0508&theme=dark&background=0b0f14&border=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=8b9bb4&dates=5b6b82&currStreakNum=e2e8f0&sideNums=e2e8f0&hide_border=false" alt="" />
 
 <br/><br/>
