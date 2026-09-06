@@ -209,6 +209,8 @@ Drop in a CSV / Excel / JSON file, get an instant GDPR exposure report: which co
 
 ### 🛠️ Stack
 
+**Build**
+
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" title="Python" alt="Python" />
 <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" title="JavaScript" alt="JavaScript" />
 <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" title="HTML5" alt="HTML5" />
@@ -224,13 +226,38 @@ Drop in a CSV / Excel / JSON file, get an instant GDPR exposure report: which co
 
 <sub><i>hover any icon for its name</i></sub>
 
+**Risk &amp; fraud**
+
+<img src="https://img.shields.io/badge/Fraud_Detection-38bdf8?style=for-the-badge&labelColor=0b0f14" alt="Fraud Detection" />
+<img src="https://img.shields.io/badge/Carrier_Vetting-38bdf8?style=for-the-badge&labelColor=0b0f14" alt="Carrier Vetting" />
+<img src="https://img.shields.io/badge/Cargo_Theft_Investigation-38bdf8?style=for-the-badge&labelColor=0b0f14" alt="Cargo Theft Investigation" />
+<img src="https://img.shields.io/badge/Identity_Fraud-38bdf8?style=for-the-badge&labelColor=0b0f14" alt="Identity Fraud" />
+<img src="https://img.shields.io/badge/Anomaly_Detection-38bdf8?style=for-the-badge&labelColor=0b0f14" alt="Anomaly Detection" />
+<img src="https://img.shields.io/badge/Supply_Chain_Security-38bdf8?style=for-the-badge&labelColor=0b0f14" alt="Supply Chain Security" />
+
+**Governance &amp; standards**
+
+<img src="https://img.shields.io/badge/EU_AI_Act-818cf8?style=for-the-badge&labelColor=0b0f14&logo=europeanunion&logoColor=818cf8" alt="EU AI Act" />
+<img src="https://img.shields.io/badge/GDPR-818cf8?style=for-the-badge&labelColor=0b0f14" alt="GDPR" />
+<img src="https://img.shields.io/badge/ISO%2FIEC_42001-818cf8?style=for-the-badge&labelColor=0b0f14" alt="ISO/IEC 42001" />
+<img src="https://img.shields.io/badge/NIST_AI_RMF-818cf8?style=for-the-badge&labelColor=0b0f14" alt="NIST AI RMF" />
+<img src="https://img.shields.io/badge/ISO_28000-818cf8?style=for-the-badge&labelColor=0b0f14" alt="ISO 28000" />
+<img src="https://img.shields.io/badge/ISO_9001-818cf8?style=for-the-badge&labelColor=0b0f14" alt="ISO 9001" />
+
+**Data &amp; method**
+
+<img src="https://img.shields.io/badge/pandas-8b9bb4?style=for-the-badge&labelColor=0b0f14&logo=pandas&logoColor=8b9bb4" alt="pandas" />
+<img src="https://img.shields.io/badge/SQL-8b9bb4?style=for-the-badge&labelColor=0b0f14&logo=mysql&logoColor=8b9bb4" alt="SQL" />
+<img src="https://img.shields.io/badge/Power_BI-8b9bb4?style=for-the-badge&labelColor=0b0f14" alt="Power BI" />
+<img src="https://img.shields.io/badge/Lean_Six_Sigma_%2F_DMAIC-8b9bb4?style=for-the-badge&labelColor=0b0f14" alt="Lean Six Sigma / DMAIC" />
+<img src="https://img.shields.io/badge/Forecasting-8b9bb4?style=for-the-badge&labelColor=0b0f14" alt="Forecasting" />
+
+
 </div>
 
 <div align="center">
 
-`AWS Lambda` `Bedrock` `Connect` `Lex` `SQL` `Power BI` `GitHub Actions` `Pandas`
-
-`EU AI Act (Reg. 2024/1689)` `GDPR` `ISO/IEC 42001` `NIST AI RMF` `ISO 28000` `Lean Six Sigma / DMAIC`
+`AWS Lambda` `Amazon Bedrock` `Amazon Connect` `Amazon Lex` `Regulation (EU) 2024/1689`
 
 </div>
 
