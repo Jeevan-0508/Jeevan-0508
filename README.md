@@ -209,7 +209,20 @@ Drop in a CSV / Excel / JSON file, get an instant GDPR exposure report: which co
 
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,aws,git,githubactions,mysql,bash,powershell,markdown&theme=dark&perline=12" alt="" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" title="Python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" title="JavaScript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" title="HTML5" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" title="CSS3" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" title="Flask" alt="Flask" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" title="AWS" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" title="Git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" title="GitHub Actions" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" title="MySQL" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" title="Bash" alt="Bash" />
+<img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="48" height="48" title="PowerShell" alt="PowerShell" />
+<img src="https://skillicons.dev/icons?i=markdown&theme=dark" width="48" height="48" title="Markdown" alt="Markdown" />
+
+<sub><i>hover any icon for its name</i></sub>
 
 </div>
 
