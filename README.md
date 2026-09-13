@@ -125,6 +125,32 @@ A carrier risk **assessment** engine — scores how well controls cover three st
 A logistics and supply-chain risk news monitor for the German/EU market. English **and** German sources, categorised by risk type, re-scanned automatically every six hours by a GitHub Action.
 
 </td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[fraud-watch](https://github.com/Jeevan-0508/fraud-watch)**
+
+<a href="https://jeevan-0508.github.io/fraud-watch/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-38bdf8?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/MIT-open-38bdf8?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+A living freight-fraud investigation simulator. A freight network runs itself — trucks, drivers, trailers and carriers over a real topology — and the analyst sees only what was *recorded*. What actually happened is held in the simulation and is structurally unreachable from every analyst-facing surface, so the exercise cannot be gamed by reading the answer.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[shrink-signal](https://github.com/Jeevan-0508/shrink-signal)**
+
+<a href="https://jeevan-0508.github.io/shrink-signal/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-38bdf8?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/sources-Eurostat_%2B_BKA-38bdf8?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+A loss-prevention reading of European police-recorded crime: **8 Eurostat offence categories**, **41 countries**, 2008–2024 — plus a German **BKA** panel that reaches 2025, carries a shoplifting category Eurostat has no code for, and breaks down to all **16 Bundesländer**. The reasons it might be wrong are printed above the charts, not in a footnote.
+
+</td></tr>
 </table>
 
 <div align="center">
@@ -170,6 +196,89 @@ Classify an AI system against **Regulation (EU) 2024/1689** in about ten minutes
 </td><td valign="top">
 
 Drop in a CSV / Excel / JSON file, get an instant GDPR exposure report: which columns hold personal data, how sensitive, what to do about it. **35 field-name rules + 9 value-regex detectors**, risk score out of 100. Parsing happens in your browser — the file never leaves your machine.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[dora-compliance-scanner](https://github.com/Jeevan-0508/dora-compliance-scanner)**
+
+<a href="https://jeevan-0508.github.io/dora-compliance-scanner/docs/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-818cf8?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/requirements-19-818cf8?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+Self-assessment coverage against **Regulation (EU) 2022/2554 (DORA)** — **19 cited requirements** across the ICT risk-management, incident-reporting, resilience-testing and third-party pillars. Answer, score, export; the citation for every requirement travels with it.
+
+</td></tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🧪 Risk tooling &amp; multi-agent systems
+
+</div>
+
+<table>
+<tr><td width="30%" valign="top">
+
+**[risk-swarm](https://github.com/Jeevan-0508/risk-swarm)**
+
+<a href="https://jeevan-0508.github.io/risk-swarm/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-a78bfa?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/tests-229_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+Seven named agents investigate a real repository together — one maps it, one stress-tests it, one audits the others. **229 tests across 19 files, 16 of them adversarial attacks** against the agents themselves, because an investigator you cannot attack is one you cannot trust.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[risk-os](https://github.com/Jeevan-0508/risk-os)**
+
+<a href="https://jeevan-0508.github.io/risk-os/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-a78bfa?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/MIT-open-a78bfa?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+An operational risk register that runs entirely in the browser — register, scoring, treatment plans and review cycles, with import/export so the data stays yours. No account, no server, no telemetry.
+
+</td></tr>
+</table>
+
+<div align="center">
+
+### 🌌 Science, built to be explored
+
+</div>
+
+<table>
+<tr><td width="30%" valign="top">
+
+**[scale-of-everything](https://github.com/Jeevan-0508/scale-of-everything)**
+
+<a href="https://jeevan-0508.github.io/scale-of-everything/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-22d3ee?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/three.js-in--browser_AI-22d3ee?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+An interactive zoom through **ten scales of the universe**, from one planet surface to the edge of the observable universe — then two steps further, into territory explicitly labelled *not measured*. Two AI models run in your browser: one searches by meaning, one talks.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[quantum-galaxy](https://github.com/Jeevan-0508/quantum-galaxy)**
+
+<a href="https://jeevan-0508.github.io/quantum-galaxy/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-22d3ee?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/concepts-20-22d3ee?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+An interactive 3D galaxy for quantum physics: **20 concepts** orbit as planets across **5 themed solar systems** around a central black hole. Ask a question in plain language and an in-browser AI flies you to the concept that answers it.
 
 </td></tr>
 </table>
