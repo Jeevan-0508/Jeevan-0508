@@ -157,11 +157,11 @@ A loss-prevention reading of European police-recorded crime: **8 Eurostat offenc
 **[one-more-shift](https://github.com/Jeevan-0508/one-more-shift)**
 
 <a href="https://jeevan-0508.github.io/one-more-shift/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-38bdf8?style=flat-square&labelColor=0b0f14" alt="live" /></a>
-<img src="https://img.shields.io/badge/tests-22_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+<img src="https://img.shields.io/badge/tests-24_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
 
 </td><td valign="top">
 
-A tiny farewell arcade game built on the taxonomy above: flag or clear **108 real cards** — 77 genuine risk indicators, 31 genuine innocent explanations — against a 60-second clock. No invented data, no backend.
+A tiny farewell arcade game built on the taxonomy above: flag or clear **108 real cards** — 77 genuine risk indicators, 31 genuine innocent explanations — against a 60-second clock that tightens its pace in the last third. Best score persists locally. No invented data, no backend.
 
 </td></tr>
 </table>
