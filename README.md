@@ -237,6 +237,19 @@ Natural-language search over the Control Room's 56 cited requirements, ranked wi
 Self-assessment coverage against **Regulation (EU) 2022/2554 (DORA)** — **19 cited requirements** across the ICT risk-management, incident-reporting, resilience-testing and third-party pillars. Answer, score, export; the citation for every requirement travels with it.
 
 </td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[POLICY//AUDIT](https://github.com/Jeevan-0508/policy-audit)**
+
+<a href="https://jeevan-0508.github.io/policy-audit/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-818cf8?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/tests-12_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+The evidence side of governance: feed it a document corpus (policy, architecture, code) and it finds where regulation → control → documented policy → actual implementation diverges, with every finding traced back to the source text. Doesn’t replace a control room — feeds one.
+
+</td></tr>
 </table>
 
 ---
@@ -253,11 +266,11 @@ Self-assessment coverage against **Regulation (EU) 2022/2554 (DORA)** — **19 c
 **[risk-swarm](https://github.com/Jeevan-0508/risk-swarm)**
 
 <a href="https://jeevan-0508.github.io/risk-swarm/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-a78bfa?style=flat-square&labelColor=0b0f14" alt="live" /></a>
-<img src="https://img.shields.io/badge/tests-229_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+<img src="https://img.shields.io/badge/tests-815_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
 
 </td><td valign="top">
 
-Seven named agents investigate a real repository together — one maps it, one stress-tests it, one audits the others. **229 tests across 19 files, 16 of them adversarial attacks** against the agents themselves, because an investigator you cannot attack is one you cannot trust.
+Seven named agents investigate a real repository together — one maps it, one stress-tests it, one audits the others. **815 tests across 60 files, 30 of them adversarial attacks** (16 guard-layer + 14 council-layer) against the agents themselves, because an investigator you cannot attack is one you cannot trust.
 
 </td></tr>
 
@@ -284,6 +297,44 @@ A persistent synthetic freight-carrier economy that ticks forward one real day a
 </td><td valign="top">
 
 An operational risk register that runs entirely in the browser — register, scoring, treatment plans and review cycles, with import/export so the data stays yours. No account, no server, no telemetry.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[RISK//REPLAY](https://github.com/Jeevan-0508/risk-replay)**
+
+<a href="https://jeevan-0508.github.io/risk-replay/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-a78bfa?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/tests-102_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+AI decision forensics: replay a model’s past decision deterministically, mutate one input, and see exactly how the outcome and its governance score would have changed — a counterfactual you can inspect, not just an accuracy number.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[RISK//RING](https://github.com/Jeevan-0508/risk-ring)**
+
+<img src="https://img.shields.io/badge/tests-10_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+<img src="https://img.shields.io/badge/data-simulated%2C_labelled-a78bfa?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+A trained fraud classifier evaluated against ground truth from a simulator built to have some (structuring, layering, collusion rings), not a downloaded 99.8%-legitimate CSV. Honest metrics, SHAP explainability, graph-based collusion-ring detection.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[FORECAST//LEDGER](https://github.com/Jeevan-0508/Forecast-Ledger)**
+
+<img src="https://img.shields.io/badge/tests-59_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+Seals a forecast before the outcome exists, grades it once reality arrives, and refuses to forecast when the history can’t support the evaluation protocol. Real Eurostat data, rolling-origin backtest, MASE, no hindsight.
 
 </td></tr>
 </table>
@@ -318,6 +369,53 @@ An interactive zoom through **ten scales of the universe**, from one planet surf
 </td><td valign="top">
 
 An interactive 3D galaxy for quantum physics: **20 concepts** orbit as planets across **5 themed solar systems** around a central black hole. Ask a question in plain language and an in-browser AI flies you to the concept that answers it.
+
+</td></tr>
+</table>
+
+<div align="center">
+
+### 🎮 Interactive engineering
+
+</div>
+
+<table>
+<tr><td width="30%" valign="top">
+
+**[NIGHTFALL // ZERO](https://github.com/Jeevan-0508/nightfall-zero)**
+
+<a href="https://jeevan-0508.github.io/nightfall-zero/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-f472b6?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/tests-330_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+A browser survival-shooter with a deterministic engine underneath the spectacle: waves, weapons, bosses, maps and loadouts, built in autonomous phased sessions with a real test suite over the pure engine/AI/collision logic.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[HAKAI // WORLD](https://github.com/Jeevan-0508/hakai_world)**
+
+<a href="https://jeevan-0508.github.io/hakai_world/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-f472b6?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/tests-135%2F137_passing-eab308?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+An explorable 2.5D living world built from the [HAKAI Protocol](https://github.com/Jeevan-0508/hakai-protocol-v2) universe — same creatures and lore, walked into instead of clicked through. Two known test failures are named in the README, not hidden.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[RULESHIFT](https://github.com/Jeevan-0508/ruleshift)**
+
+<a href="https://jeevan-0508.github.io/ruleshift/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-f472b6?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/tests-27_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+A puzzle game where the rules are never quite what they seem — every generated level is BFS-verified solvable before it’s shown, so a level that looks unfair is provably not.
 
 </td></tr>
 </table>
@@ -427,6 +525,7 @@ An interactive 3D galaxy for quantum physics: **20 concepts** orbit as planets a
 - **[All-in-one-desk](https://github.com/Jeevan-0508/All-in-one-desk)** — offline-first Python productivity suite: document conversion, OCR, KPI calculators, email and flowchart generators. Flask · Tesseract · LibreOffice · PyInstaller.
 - **[hakai-protocol-v2](https://github.com/Jeevan-0508/hakai-protocol-v2)** — a real-life RPG for habits: quests, XP, gear, bosses, streaks. Zero dependencies, offline save system. **[Live](https://jeevan-0508.github.io/hakai-protocol-v2)**
 - **[a-conversation-with-existence](https://github.com/Jeevan-0508/a-conversation-with-existence)** — a book I wrote.
+- **[mind-galaxy](https://github.com/Jeevan-0508/mind-galaxy)** — the book's 18 chapters, laid out as an explorable 3D galaxy instead of a table of contents.
 
 </details>
 
