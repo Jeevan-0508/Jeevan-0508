@@ -201,6 +201,19 @@ Drop in a CSV / Excel / JSON file, get an instant GDPR exposure report: which co
 
 <tr><td width="30%" valign="top">
 
+**[reg-search](https://github.com/Jeevan-0508/reg-search)**
+
+<a href="https://jeevan-0508.github.io/reg-search/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-818cf8?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/tests-11_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+Natural-language search over the Control Room's 56 cited requirements, ranked with a **BM25 implementation written from scratch** — no embeddings, no external model, no API key. Shows exactly which query terms earned a result its rank.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
 **[dora-compliance-scanner](https://github.com/Jeevan-0508/dora-compliance-scanner)**
 
 <a href="https://jeevan-0508.github.io/dora-compliance-scanner/docs/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-818cf8?style=flat-square&labelColor=0b0f14" alt="live" /></a>
