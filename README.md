@@ -64,17 +64,19 @@ flowchart LR
     F["🇪🇺 eu-ai-act-scanner"]
     G["🔒 gdpr-compliance-scanner"]
     H["🎛️ ai-governance-control-room<br/>4 frameworks · 56 reqs · 29 controls"]
+    I["📋 policy-audit<br/>evidence vs. policy audit"]
 
     A --> B --> C
     A --> D
     E --> F --> H
     E --> G --> H
+    E --> I --> H
 
     classDef freight fill:#0b2b3a,stroke:#38bdf8,stroke-width:2px,color:#e2e8f0
     classDef gov fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#e2e8f0
     classDef src fill:#111823,stroke:#5b6b82,stroke-width:1px,color:#8b9bb4
     class A,B,C,D freight
-    class F,G,H gov
+    class F,G,H,I gov
     class E src
 ```
 
@@ -390,6 +392,19 @@ An interactive 3D galaxy for quantum physics: **20 concepts** orbit as planets a
 </td><td valign="top">
 
 A browser survival-shooter with a deterministic engine underneath the spectacle: waves, weapons, bosses, maps and loadouts, built in autonomous phased sessions with a real test suite over the pure engine/AI/collision logic.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
+**[HAKAI PROTOCOL](https://github.com/Jeevan-0508/hakai-protocol-v2)**
+
+<a href="https://jeevan-0508.github.io/hakai-protocol-v2/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-f472b6?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/dependencies-zero-7c3aed?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+A dark-fantasy habit-tracker RPG: real workouts, reading, and daily discipline earn XP, creatures and gear in a vanilla HTML/CSS/JS game with no framework and no backend. v2.3's retention systems (streak shields, daily directives, loot caches) live in one additive file that wraps the core engine through guarded hooks, so a thrown error falls back to the original shipped game instead of a blank screen. The creature/boss universe here is what HAKAI // WORLD below was built from.
 
 </td></tr>
 
