@@ -237,6 +237,19 @@ Seven named agents investigate a real repository together — one maps it, one s
 
 <tr><td width="30%" valign="top">
 
+**[shadow-network](https://github.com/Jeevan-0508/shadow-network)**
+
+<a href="https://jeevan-0508.github.io/shadow-network/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-a78bfa?style=flat-square&labelColor=0b0f14" alt="live" /></a>
+<img src="https://img.shields.io/badge/tests-80_passing-22c55e?style=flat-square&labelColor=0b0f14" alt="" />
+
+</td><td valign="top">
+
+A persistent synthetic freight-carrier economy that ticks forward one real day at a time via an unattended GitHub Action, while a BYOK AI council investigates flagged incidents from a redacted case brief that never carries the sim's own ground truth. A public leaderboard tracks the council's win rate against fraud it never gets to see labelled.
+
+</td></tr>
+
+<tr><td width="30%" valign="top">
+
 **[risk-os](https://github.com/Jeevan-0508/risk-os)**
 
 <a href="https://jeevan-0508.github.io/risk-os/"><img src="https://img.shields.io/badge/%E2%96%B6_live-demo-a78bfa?style=flat-square&labelColor=0b0f14" alt="live" /></a>
