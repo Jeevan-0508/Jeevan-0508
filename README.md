@@ -26,13 +26,17 @@ AI governance            →  controls, documents, implementation gaps, and audi
 
 The repositories are not a single deployed product. Where a connection exists, it is an explicit adapter, fixture, or hash-verified snapshot. Static GitHub Pages cannot launch a local Python service, and unavailable providers are surfaced as unavailable.
 
+![Current verified ecosystem architecture](assets/ecosystem-architecture.svg)
+
+The diagram shows the current verified boundary, not a target architecture: solid lines are implemented/local, dashed lines are snapshots or optional paths, muted lines are unavailable or outside the repository pipeline, and amber markers identify simulated data.
+
 ## Flagship systems
 
 ### [RISK//MESH](https://github.com/Jeevan-0508/Risk-Mesh) · [Observatory](https://jeevan-0508.github.io/Risk-Mesh/observatory/)
 
 Risk-intelligence fabric for contracts, evidence, provenance, cases, arbitration, and learning across independent risk systems.
 
-![RISK//MESH Observatory](https://raw.githubusercontent.com/Jeevan-0508/Risk-Mesh/main/assets/jk-brand-banner.png)
+**Visual proof:** [open the neural Observatory](https://jeevan-0508.github.io/Risk-Mesh/observatory/) — a real orb-and-ledger replay of captured golden cases and System-1 shadow runs.
 
 **Status:** `LOCAL` contracts and engines · `SNAPSHOT` Observatory data · Laya `SHADOW` checkpoints when the runtime is available · Jev `UNAVAILABLE` · no production traffic. The Observatory is a replay of captured cases, not a live cross-repository feed.
 
