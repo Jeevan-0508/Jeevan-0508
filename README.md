@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Jeevan Siddhabhaktula — AI risk intelligence engineering" width="100%">
+  <img src="assets/profile-hero.svg" alt="Jeevan Siddhabhaktula — AI governance, risk, and decision intelligence" width="100%">
 </p>
 
 <p align="center">
