@@ -72,14 +72,14 @@ verified; a missing live link is intentional.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Jeevan-0508/Risk-Mesh"><img src="assets/projects/risk-mesh.png" alt="RISK//MESH observatory" width="100%"></a>
+
 <h3><a href="https://github.com/Jeevan-0508/Risk-Mesh">RISK//MESH</a></h3>
 <p>A provenance-led connective layer for evidence, models, investigations, decisions, and outcomes across the portfolio.</p>
 <sub>PUBLIC · SNAPSHOT-LED · GITHUB ACTIONS</sub><br>
 <a href="https://jeevan-0508.github.io/Risk-Mesh/observatory/">Open the Observatory</a> · <a href="https://github.com/Jeevan-0508/Risk-Mesh">Read the evidence</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Jeevan-0508/DB-Rail-Recover"><img src="assets/projects/db-rail-recover.png" alt="RailRecover operational prototype" width="100%"></a>
+
 <h3><a href="https://github.com/Jeevan-0508/DB-Rail-Recover">RailRecover</a></h3>
 <p>A route-based lost-property coordination prototype where relevant teams respond and every desk sees the same case.</p>
 <sub>PUBLIC · LIVE DEMO · SYNTHETIC DATA</sub><br>
