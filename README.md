@@ -2,10 +2,17 @@
   <img src="assets/profile-hero.svg" alt="Jeevan Siddhabhaktula — AI governance, risk, and decision intelligence" width="100%">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Jeevan Siddhabhaktula's GitHub profile in ASCII" src="dark_mode.svg" width="100%" />
+</picture>
+
 <p align="center">
   <a href="https://jeevan-0508.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/jeevan-siddhabhaktula-6927041a2/">LinkedIn</a> ·
-  <a href="mailto:jeevansiddhabhaktula@gmail.com">Email</a>
+  <a href="mailto:jeevansiddhabhaktula@gmail.com">Email</a> ·
+  <a href="https://gh.crafter.run/?utm_source=chatgpt.com">gh-ascii</a>
 </p>
 
 # Building systems that make risk visible
