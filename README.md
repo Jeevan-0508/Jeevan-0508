@@ -6,7 +6,7 @@
   <a href="https://jeevan-0508.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/jeevan-siddhabhaktula-6927041a2/">LinkedIn</a> ·
   <a href="mailto:jeevansiddhabhaktula@gmail.com">Email</a> ·
-  <a href="https://gh.crafter.run/">Profile enhancer</a>
+  <a href="https://gh.crafter.run/?utm_source=chatgpt.com">gh-ascii</a>
 </p>
 
 # Building systems that make risk visible
